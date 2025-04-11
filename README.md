@@ -10,7 +10,7 @@ Our UM is fully functional as far as we know, as it was able to run all of the b
 
 Notable departures:
 - The `halt` function is no longer in use and is replaced with a simple process::exit call
-- 
+
 
 # Architecture
 
